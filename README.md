@@ -26,6 +26,6 @@ ChefBot utilizes the following technologies:
 - **HTML & CSS**: For creating a responsive and visually appealing user interface.
 ---
 ## 📩 Reach Out
-I have uploaded the two training models as PDF files for reference. If you have any questions or need clarification, feel free to contact me at:
+If you have any questions or need clarification, feel free to contact me at:
 [LinkedIn](www.linkedin.com/in/spraveenkumar2205)
 [E-mail](spraveenkumar2205@gmal.com)
